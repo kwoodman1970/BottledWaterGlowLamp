@@ -1,0 +1,277 @@
+/*=============================================================================================
+DESCRIPTION
+=============================================================================================*/
+
+/*
+This style sheet is to be used with "webapp.js" which contains scripts that will manipulate
+elements of the classes listed here.
+
+These are the user interface components that this style sheet implements.  They're based on a
+blend of both Google's Material Design and Apple's iOS 9 style guides.  Developers are strongly
+urged to refer to these guides when choosing colour schemes, fonts, etc.
+
+  Background
+    Implemented with the <BODY> element.
+
+  Header Bar
+    Implemented with the <HEADER> element.
+
+  Footer Bar
+    Implemented with the <FOOTER> element.
+
+  Back Button (appears on iOS devices only)
+    Implemented with the <DIV ID="BackButton"> element.  This element MUST be placed inside the
+    <HEADER> block and at the front of its content.
+
+  Page
+    Implemented with the <DIV CLASS="Page"> element.  A single HTML file can have as many pages
+    of whatever as desired, or the app can be split up into several HTML files.
+
+    Only one page UI component can be displayed at a time.  The page whose "ID" attribute is
+    "Home" is the one that's initially visible.
+
+  Card
+    Implemented with the <DIV CLASS="Card"> element.  They're appropriate for displaying a set
+    of things like records in a database or photographs.  Think of a set of index cards or a
+    library's card catalog.
+
+  Button (single press)
+    Implemented with the <BUTTON>, <INPUT TYPE="BUTTON">, <INPUT TYPE="SUBMIT"> and
+     <INPUT TYPE="RESET"> elements.  The "ONCLICK" attribute can be used to specify a scripted
+     action.
+
+  Button (on/off)
+    Implemented with the <BUTTON CLASS="OnOff"> element.  The "ONCLICK" attribute can be
+    used to specify a scripted action, if desired.
+
+    Additionally, child elements of class "On" or "Off" will be displayed or hidden, depending
+    on whether the button's state is on or off.
+
+Sometimes it's necessary to taylor content to specific operating systems.  The following
+classes will make an element be displayed only for that OS:
+
+  UnknownOS
+  Android
+  BlackBerry
+  iOS
+  WindowsMobile
+
+There can be multiple OS's included in a single "CLASS" attribute if necessary.
+*/
+
+/*=============================================================================================
+DEPENDENT FILES
+=============================================================================================*/
+
+/*
+webapp.js
+*/
+
+/*=============================================================================================
+HOW TO USE
+=============================================================================================*/
+
+/*
+Style sheets for appearance (colour schemes, fonts, etc.) can and/or should be specified in an
+app-specific style sheet for the following elements:
+
+  BODY
+  HEADER
+  FOOTER
+  DIV#BackButton
+  DIV.Card
+
+  INPUT[TYPE="CHECKBOX"], INPUT[TYPE="RADIO"], INPUT[TYPE="RANGE"]
+  BUTTON, INPUT[TYPE="BUTTON"], INPUT[TYPE="SUBMIT"], INPUT[TYPE="RESET"]
+  BUTTON.OnOff.Off
+
+If no header is being used then overide BODY's padding-top to 0px; likewise, if no footer is
+being used then overide BODY's padding-bottom to 0px.
+
+*/
+
+/**********************************************************************************************
+General Styles
+**********************************************************************************************/
+
+BODY
+{
+  margin:          0px;
+  border-style:    none;
+  padding-top:     32px;                        /* overide to 0px if no header is being used */
+  padding-bottom:  32px;                        /* overide to 0px if no footer is being used */
+  padding-left:    0px;
+  padding-right:   0px;
+}
+
+DIV.Page
+{
+  display:        none;
+  margin:         0px;
+  border-style:   none;
+  padding:        0px;
+}
+
+DIV.Page#Home
+{
+  display:  block;
+}
+
+HEADER
+{
+  position:          fixed;
+  top:               0px;
+  left:              0px;
+  right:             0px;
+  height:            28px;
+  padding:           2px;
+  box-shadow:        0px 5px 15px #808080;
+}
+
+FOOTER
+{
+  position:          fixed;
+  left:              0px;
+  bottom:            0px;
+  right:             0px;
+  height:            28px;
+  padding:           2px;
+  box-shadow:        0px 5px 15px #808080;
+}
+
+/**********************************************************************************************
+Styles for the Back Button
+**********************************************************************************************/
+
+DIV#BackButton
+{
+  display:         none;
+  float:           left;
+  height:          24px;
+  margin:          2px;
+  border-width:    0px;
+  padding:         0px;
+  vertical-align:  middle;
+  font-size:       20px;
+  line-height:     22px;
+}
+
+DIV#BackButton:before
+{
+  content:  "\027E8";                                     /* corresponds to "&langle;" glyph */
+}
+
+DIV#BackButton:hover
+{
+  cursor:  pointer;
+}
+
+IMG.CloseButton
+{
+  position:  fixed;
+  top:       32px;
+  right:     0px;
+  width:     24px;
+  height:    24px;
+  cursor:    pointer;
+}
+
+IMG.CloseButton:hover
+{
+  cursor:  pointer;
+}
+
+/**********************************************************************************************
+Styles for Cards
+**********************************************************************************************/
+
+DIV.Card
+{
+  margin:        8px auto 8px auto;
+  border-style:  solid;
+  border-width:  1px;
+  padding:       4px;
+  box-shadow:    0px 2px 3px #808080;
+}
+
+/**********************************************************************************************
+Styles for Buttons
+**********************************************************************************************/
+
+BUTTON, INPUT[TYPE="BUTTON"], INPUT[TYPE="SUBMIT"], INPUT[TYPE="RESET"]
+{
+  display:        inline-block;
+  margin:         10px;
+  padding:        4px;
+  border-style:   solid;
+  border-width:   2px;
+  border-radius:  4px;
+  box-shadow:     0px 4px 8px #808080;
+  text-align:     center;
+}
+
+BUTTON:hover, INPUT[TYPE="BUTTON"]:hover, INPUT[TYPE="SUBMIT"]:hover, INPUT[TYPE="RESET"]:hover
+{
+  cursor:  pointer;
+}
+
+BUTTON:active, INPUT[TYPE="BUTTON"]:active, INPUT[TYPE="SUBMIT"]:active,
+  INPUT[TYPE="RESET"]:active
+{
+  box-shadow:  0px 0px 0px #808080;
+}
+
+BUTTON:disabled, INPUT:disabled
+{
+  opacity:  0.5;
+  cursor:   not-allowed;
+}
+
+BUTTON:disabled, INPUT[TYPE="BUTTON"]:disabled, INPUT[TYPE="SUBMIT"]:disabled,
+  INPUT[TYPE="RESET"]:disabled
+{
+  box-shadow:  0px 4px 8px #808080;
+}
+
+BUTTON.OnOff > .On
+{
+  display:  inherit;
+}
+
+BUTTON.OnOff > .Off
+{
+  display:  none;
+}
+
+BUTTON.OnOff.Off > .On
+{
+  display:  none;
+}
+
+BUTTON.OnOff.Off > .Off
+{
+  display:  inherit;
+}
+
+/*
+This is still experimental:
+*/
+
+INPUT.Toggle
+{
+  width:  24px;
+}
+
+/**********************************************************************************************
+Styles for Operating Systems
+**********************************************************************************************/
+
+.Android, .BlackBerry, .iOS, .WindowsMobile, .UnknownOS
+{
+  display:  none;
+}
+
+.Installed, .NotInstalled, .MaybeInstalled
+{
+  display:  none;
+}

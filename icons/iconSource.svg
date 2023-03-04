@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg4291"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="iconSource.svg">
+  <title
+     id="title4818">Product Icon Template</title>
+  <defs
+     id="defs4293">
+    <linearGradient
+       gradientTransform="matrix(0.25,0,0,0.25,2,3)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient3820"
+       id="linearGradient3826"
+       x1="48"
+       y1="88"
+       x2="72"
+       y2="88"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3820">
+      <stop
+         id="stop3828"
+         offset="0"
+         style="stop-color:#ff0000;stop-opacity:1;" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1;"
+         offset="0.33333334"
+         id="stop3830" />
+      <stop
+         id="stop3834"
+         offset="0.66666669"
+         style="stop-color:#00ff00;stop-opacity:1;" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="1"
+         id="stop3824" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16.145833"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:current-layer="Content"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1680"
+     inkscape:window-height="990"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:snap-nodes="true"
+     inkscape:object-nodes="false"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-grids="true"
+     inkscape:snap-smooth-nodes="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4299"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid5565"
+       empspacing="2"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       dotted="true"
+       originx="2.7755576e-017px"
+       originy="2.7755576e-017px"
+       spacingx="0.5px"
+       spacingy="0.5px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4296">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Product Icon Template</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="Content"
+     inkscape:label="Content"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <path
+       style="fill:#e0e0e0;fill-opacity:1;stroke:none;display:inline"
+       d="m 5,39 38,0 c 0,2 -3,4 -6,4 L 11,43 C 8,43 5,41 5,39 z"
+       id="Device"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:url(#linearGradient3826);fill-opacity:1;stroke:#4dd0e1;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 11,37 0,-17 1,-2 -1,-2 0,-4 4,-4 4,0 4,4 0,4 -1,2 1,2 0,17 c 0,0.75 -0.25,1 -1,1 l -10,0 c -0.75,0 -1,-0.25 -1,-1 z"
+       id="Bottle"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccccccccccccss" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="Cap"
+       width="6"
+       height="2"
+       x="14"
+       y="5"
+       rx="0"
+       ry="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="KeylineShapes"
+     inkscape:label="Keyline Shapes"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="Horizontal Rectangle"
+       inkscape:label="Horizontal Rectangle"
+       style="display:none">
+      <rect
+         style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none;display:inline"
+         id="HorizontalRectangle"
+         width="44"
+         height="32"
+         x="2"
+         y="8"
+         inkscape:label="Horizonta lRectangle"
+         ry="3" />
+      <g
+         inkscape:groupmode="layer"
+         id="Geometry HR"
+         inkscape:label="Geometry HR"
+         style="display:inline">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:label="#OrthoLine"
+           inkscape:connector-curvature="0"
+           id="OrthoLine_10"
+           d="m 0.5,24 47,0"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:label="#OrthoLine"
+           inkscape:connector-curvature="0"
+           id="OrthoLine_11"
+           d="m 24,0.5 0,47"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           d="M 11,8 A 3,3 0 1 1 5,8 3,3 0 1 1 11,8 z"
+           sodipodi:ry="3"
+           sodipodi:rx="3"
+           sodipodi:cy="8"
+           sodipodi:cx="8"
+           id="CornerCircle_08"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           sodipodi:type="arc"
+           transform="translate(-3,3)" />
+        <path
+           d="M 11,8 A 3,3 0 1 1 5,8 3,3 0 1 1 11,8 z"
+           sodipodi:ry="3"
+           sodipodi:rx="3"
+           sodipodi:cy="8"
+           sodipodi:cx="8"
+           id="CornerCircle_09"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           sodipodi:type="arc"
+           transform="translate(35,3)" />
+        <path
+           d="M 11,8 A 3,3 0 1 1 5,8 3,3 0 1 1 11,8 z"
+           sodipodi:ry="3"
+           sodipodi:rx="3"
+           sodipodi:cy="8"
+           sodipodi:cx="8"
+           id="CornerCircle_10"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           sodipodi:type="arc"
+           transform="translate(-3,29)" />
+        <path
+           d="M 11,8 A 3,3 0 1 1 5,8 3,3 0 1 1 11,8 z"
+           sodipodi:ry="3"
+           sodipodi:rx="3"
+           sodipodi:cy="8"
+           sodipodi:cx="8"
+           id="CornerCircle_11"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           sodipodi:type="arc"
+           transform="translate(35,29)" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           d="M 3.3057875,34.523843 41.305788,8.5238432"
+           id="CrossLine_01"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="CrossLine_00"
+           d="m 6.694212,39.476157 38.000001,-26"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="CrossLine_03"
+           d="m 44.694212,34.523843 -38,-25.9999998"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           d="m 41.305788,39.476157 -38.000001,-26"
+           id="CrossLine_02"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           d="M 2.8786797,13.12132 29.75736,40"
+           id="TangentDiagonal"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           d="M 8,40 8,8"
+           id="VerticalLine_02"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           d="M 40,40 40,8"
+           id="VerticalLine_03"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="Vertical Rectangle"
+       inkscape:label="Vertical Rectangle"
+       style="display:none">
+      <rect
+         style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none;display:inline"
+         id="VerticalRectangle"
+         width="32"
+         height="44"
+         x="8"
+         y="2"
+         inkscape:label="Vertical Rectangle"
+         ry="3" />
+      <g
+         inkscape:groupmode="layer"
+         id="Geometry VR"
+         inkscape:label="Geometry VR"
+         style="display:inline">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:label="#OrthoLine"
+           inkscape:connector-curvature="0"
+           id="OrthoLine_08"
+           d="m 0.5,24 47,0"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:label="#OrthoLine"
+           inkscape:connector-curvature="0"
+           id="OrthoLine_09"
+           d="m 24,0.5 0,47"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           inkscape:label="DiagonalLine"
+           inkscape:connector-curvature="0"
+           id="DiagonalLine_04"
+           d="m 0.5,0.5 47,47"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           inkscape:label="DiagonalLine"
+           inkscape:connector-curvature="0"
+           id="DiagonalLine_05"
+           d="m 47.5,0.5 -47,47"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           d="M 11,8 A 3,3 0 1 1 5,8 3,3 0 1 1 11,8 z"
+           sodipodi:ry="3"
+           sodipodi:rx="3"
+           sodipodi:cy="8"
+           sodipodi:cx="8"
+           id="CornerCircle_04"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           sodipodi:type="arc"
+           transform="translate(3,-3)" />
+        <path
+           d="M 11,8 A 3,3 0 1 1 5,8 3,3 0 1 1 11,8 z"
+           sodipodi:ry="3"
+           sodipodi:rx="3"
+           sodipodi:cy="8"
+           sodipodi:cx="8"
+           id="CornerCircle_05"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           sodipodi:type="arc"
+           transform="translate(23,3)" />
+        <path
+           d="M 11,8 A 3,3 0 1 1 5,8 3,3 0 1 1 11,8 z"
+           sodipodi:ry="3"
+           sodipodi:rx="3"
+           sodipodi:cy="8"
+           sodipodi:cx="8"
+           id="CornerCircle_06"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           sodipodi:type="arc"
+           transform="translate(3,35)" />
+        <path
+           d="M 11,8 A 3,3 0 1 1 5,8 3,3 0 1 1 11,8 z"
+           sodipodi:ry="3"
+           sodipodi:rx="3"
+           sodipodi:cy="8"
+           sodipodi:cx="8"
+           id="CornerCircle_07"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           sodipodi:type="arc"
+           transform="translate(29,35)" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           d="M 28,46 28,2 40,14 8,14"
+           id="CornerFold"
+           inkscape:connector-curvature="0"
+           inkscape:label="#CornerFold"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           d="M 17.757359,2 40,24.242641"
+           id="TangentLine"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:label="#TangentLine"
+           inkscape:transform-center-x="1.767767"
+           inkscape:transform-center-y="2.4748738" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           d="m 16,2 0,44"
+           id="VerticalLine_00"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="VerticalLine_01"
+           d="m 32,2 0,44"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           d="m 8,38 32,0"
+           id="HorizontalLine"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           d="m 16.061935,33.989677 16,0"
+           id="NarrowHorizontalLine_00"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="NarrowHorizontalLine_01"
+           d="m 16.061935,31.989677 16,0"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="NarrowHorizontalLine_02"
+           d="m 16.061935,29.989677 16,0"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="NarrowHorizontalLine_03"
+           d="m 16.061935,27.989677 16,0"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="NarrowHorizontalLine_04"
+           d="m 16.061935,25.989677 16,0"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none;display:inline"
+           d="m 16,36 12,0"
+           id="NarrowerHorizontalLine"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="Circle"
+       inkscape:label="Circle"
+       style="display:none">
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none;display:inline"
+         id="path4048"
+         sodipodi:cx="24"
+         sodipodi:cy="24"
+         sodipodi:rx="22"
+         sodipodi:ry="22"
+         d="M 46,24 A 22,22 0 1 1 2,24 22,22 0 1 1 46,24 z" />
+      <g
+         inkscape:groupmode="layer"
+         id="Geometry Cir"
+         inkscape:label="Geometry Cir"
+         style="display:inline">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:label="#OrthoLine"
+           inkscape:connector-curvature="0"
+           id="OrthoLine_06"
+           d="m 0.5,24 47,0"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:label="#OrthoLine"
+           inkscape:connector-curvature="0"
+           id="OrthoLine_07"
+           d="m 24,0.5 0,47"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           inkscape:label="DiagonalLine"
+           inkscape:connector-curvature="0"
+           id="DiagonalLine_02"
+           d="m 0.5,0.5 47,47"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           inkscape:label="DiagonalLine"
+           inkscape:connector-curvature="0"
+           id="DiagonalLine_03"
+           d="m 47.5,0.5 -47,47"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           d="m 34,24 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+           sodipodi:ry="10"
+           sodipodi:rx="10"
+           sodipodi:cy="24"
+           sodipodi:cx="24"
+           id="CentreCircle_01"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           id="CentreCircleInner"
+           sodipodi:cx="24"
+           sodipodi:cy="24"
+           sodipodi:rx="8"
+           sodipodi:ry="8"
+           d="m 32,24 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           d="M 4.3988384,14 43.601161,14 31.464958,17.345946"
+           id="TangentAndHook_00"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc"
+           inkscape:transform-center-y="-8.327027" />
+        <path
+           inkscape:transform-center-y="-8.327027"
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="TangentAndHook_01"
+           d="M 25.140326,45.975103 5.5391651,12.024896 14.504941,20.862183"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           inkscape:transform-center-y="-8.327027"
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="TangentAndHook_02"
+           d="M 42.460834,12.024897 22.859673,45.975104 26.0301,33.791871"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="Square"
+       inkscape:label="Square"
+       style="display:inline">
+      <rect
+         style="fill:none;stroke:#808080;stroke-width:0.10000000000000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196081;stroke-dasharray:none;display:inline"
+         id="rect4050"
+         width="38"
+         height="38"
+         x="5"
+         y="5"
+         inkscape:label="Square"
+         ry="3" />
+      <g
+         inkscape:groupmode="layer"
+         id="Geometry Sq"
+         inkscape:label="Geometry Sq"
+         style="display:inline">
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           d="m 0.5,24 47,0"
+           id="OrthoLine_00"
+           inkscape:connector-curvature="0"
+           inkscape:label="#OrthoLine_00"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:label="#OrthoLine"
+           inkscape:connector-curvature="0"
+           id="OrthoLine_01"
+           d="m 0.5,17 47,0"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:label="#OrthoLine"
+           inkscape:connector-curvature="0"
+           id="OrthoLine_02"
+           d="m 0.5,31 47,0"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:label="#OrthoLine"
+           inkscape:connector-curvature="0"
+           id="OrthoLine_03"
+           d="m 17,0.5 0,47"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:label="#OrthoLine"
+           inkscape:connector-curvature="0"
+           id="OrthoLine_04"
+           d="m 24,0.5 0,47"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:label="#OrthoLine"
+           inkscape:connector-curvature="0"
+           id="OrthoLine_05"
+           d="m 31,0.5 0,47"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           d="m 0.5,0.5 47,47"
+           id="DiagonalLine"
+           inkscape:connector-curvature="0"
+           inkscape:label="DiagonalLine" />
+        <path
+           inkscape:label="DiagonalLine"
+           inkscape:connector-curvature="0"
+           id="DiagonalLine_01"
+           d="m 47.5,0.5 -47,47"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none" />
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           id="CornerCircle"
+           sodipodi:cx="8"
+           sodipodi:cy="8"
+           sodipodi:rx="3"
+           sodipodi:ry="3"
+           d="M 11,8 A 3,3 0 1 1 5,8 3,3 0 1 1 11,8 z" />
+        <path
+           d="M 11,8 A 3,3 0 1 1 5,8 3,3 0 1 1 11,8 z"
+           sodipodi:ry="3"
+           sodipodi:rx="3"
+           sodipodi:cy="8"
+           sodipodi:cx="8"
+           id="CornerCircle_01"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           sodipodi:type="arc"
+           transform="translate(32,0)" />
+        <path
+           transform="translate(0.051571,32.077357)"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           id="CornerCircle_02"
+           sodipodi:cx="8"
+           sodipodi:cy="8"
+           sodipodi:rx="3"
+           sodipodi:ry="3"
+           d="M 11,8 A 3,3 0 1 1 5,8 3,3 0 1 1 11,8 z" />
+        <path
+           d="M 11,8 A 3,3 0 1 1 5,8 3,3 0 1 1 11,8 z"
+           sodipodi:ry="3"
+           sodipodi:rx="3"
+           sodipodi:cy="8"
+           sodipodi:cx="8"
+           id="CornerCircle_03"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           sodipodi:type="arc"
+           transform="translate(32,32)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           id="CentreCircle"
+           sodipodi:cx="24"
+           sodipodi:cy="24"
+           sodipodi:rx="10"
+           sodipodi:ry="10"
+           d="m 34,24 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           d="M 5,36 36,5"
+           id="DiagonalLineOffset"
+           inkscape:connector-curvature="0"
+           inkscape:label="DiagonalLineOffset" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+           d="M 15,43 43,22"
+           id="ObliqueLine"
+           inkscape:connector-curvature="0"
+           inkscape:label="ObliqueLine" />
+      </g>
+    </g>
+  </g>
+</svg>

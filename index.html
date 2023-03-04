@@ -1,0 +1,246 @@
+<!DOCTYPE HTML>
+
+<HTML MANIFEST="manifest.appcache">
+
+<HEAD>
+  <TITLE>Bottled Water Glow Lamp</TITLE>
+
+  <META HTTP-EQUIV="Content-Type"        CONTENT="text/html; charset=utf-8">
+  <META HTTP-EQUIV="Content-Script-Type" CONTENT="text/javascript">
+
+  <!-- Start of web app information -->
+
+  <LINK REL="manifest" TYPE="application/json" HREF="manifest.json">
+
+  <META NAME="application-name"                      CONTENT="Bottled Water Glow Lamp">
+  <META NAME="viewport"                              CONTENT="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <META NAME="mobile-web-app-capable"                CONTENT="yes">
+
+  <!-- iOS meta data -->
+
+  <META NAME="apple-mobile-web-app-capable"          CONTENT="yes">
+  <META NAME="apple-mobile-web-app-status-bar-style" CONTENT="black">
+
+  <!-- Windows Mobile meta data -->
+
+  <META NAME="msapplication-config"                  CONTENT="none">
+  <META NAME="msapplication-starturl"                CONTENT="index.html?installed=true">
+  <META NAME="msapplication-tooltip"                 CONTENT="Bottled Water Glow Lamp">
+
+  <!-- Android icons -->
+
+  <LINK REL="icon"             TYPE="image/png" SIZES="48x48"   HREF="icons/icon48.png">
+  <LINK REL="icon"             TYPE="image/png" SIZES="72x72"   HREF="icons/icon72.png">
+  <LINK REL="icon"             TYPE="image/png" SIZES="96x96"   HREF="icons/icon96.png">
+  <LINK REL="icon"             TYPE="image/png" SIZES="144x144" HREF="icons/icon144.png">
+  <LINK REL="icon"             TYPE="image/png" SIZES="192x192" HREF="icons/icon192.png">
+
+  <!-- iOS icons -->
+
+  <LINK REL="apple-touch-icon" TYPE="image/png" SIZES="57x57"   HREF="icons/icon57.png">
+  <LINK REL="apple-touch-icon" TYPE="image/png" SIZES="72x72"   HREF="icons/icon72.png">
+  <LINK REL="apple-touch-icon" TYPE="image/png" SIZES="76x76"   HREF="icons/icon76.png">
+  <LINK REL="apple-touch-icon" TYPE="image/png" SIZES="114x114" HREF="icons/icon114.png">
+  <LINK REL="apple-touch-icon" TYPE="image/png" SIZES="120x120" HREF="icons/icon120.png">
+  <LINK REL="apple-touch-icon" TYPE="image/png" SIZES="144x144" HREF="icons/icon144.png">
+  <LINK REL="apple-touch-icon" TYPE="image/png" SIZES="152x152" HREF="icons/icon152.png">
+  <LINK REL="apple-touch-icon" TYPE="image/png" SIZES="167x167" HREF="icons/icon167.png">
+  <LINK REL="apple-touch-icon" TYPE="image/png" SIZES="180x180" HREF="icons/icon180.png">
+
+  <!-- BlackBerry icons -->
+
+  <LINK REL="apple-touch-icon" TYPE="image/png" SIZES="46x46"   HREF="icons/icon46.png">
+  <LINK REL="apple-touch-icon" TYPE="image/png" SIZES="68x68"   HREF="icons/icon68.png">
+  <LINK REL="apple-touch-icon" TYPE="image/png" SIZES="90x90"   HREF="icons/icon90.png">
+  <LINK REL="apple-touch-icon" TYPE="image/png" SIZES="92x92"   HREF="icons/icon92.png">
+  <LINK REL="apple-touch-icon" TYPE="image/png" SIZES="96x96"   HREF="icons/icon96.png">
+  <LINK REL="apple-touch-icon" TYPE="image/png" SIZES="110x110" HREF="icons/icon110.png">
+  <LINK REL="apple-touch-icon" TYPE="image/png" SIZES="144x144" HREF="icons/icon144.png">
+
+  <!-- Windows Mobile icons -->
+
+  <META NAME="msapplication-TileColor"         CONTENT="#000000">
+  <META NAME="msapplication-TileImage"         CONTENT="icons/icon144.png">
+  <META NAME="msapplication-square70x70logo"   CONTENT="icons/icon128.png">
+  <META NAME="msapplication-square150x150logo" CONTENT="icons/icon270.png">
+  <META NAME="msapplication-square310x310logo" CONTENT="icons/icon558.png">
+  <META NAME="msapplication-wide310x150logo"   CONTENT="icons/icon558x270.png">
+
+  <!-- iOS startup images -->
+
+  <LINK REL="apple-touch-startup-image" TYPE="image/png" MEDIA="(device-width:320px)"                                                                  HREF="startupimages/startupimage320x460.png">
+  <LINK REL="apple-touch-startup-image" TYPE="image/png" MEDIA="(device-width:320px)                               and (-webkit-device-pixel-ratio:2)" HREF="startupimages/startupimage640x920.png">
+  <LINK REL="apple-touch-startup-image" TYPE="image/png" MEDIA="(device-width:320px)  and (device-height:568px)    and (-webkit-device-pixel-ratio:2)" HREF="startupimages/startupimage640x1096.png">
+  <LINK REL="apple-touch-startup-image" TYPE="image/png" MEDIA="(device-width:375px)"                                                                  HREF="startupimages/startupimage750x1294.png">
+  <LINK REL="apple-touch-startup-image" TYPE="image/png" MEDIA="(device-width:414px)"                                                                  HREF="startupimages/startupimage1242x2148.png">
+  <LINK REL="apple-touch-startup-image" TYPE="image/png" MEDIA="(device-width:768px)  and (orientation:portrait)"                                      HREF="startupimages/startupimage768x1004.png">
+  <LINK REL="apple-touch-startup-image" TYPE="image/png" MEDIA="(device-width:768px)  and (orientation:landscape)"                                     HREF="startupimages/startupimage1024x748.png">
+  <LINK REL="apple-touch-startup-image" TYPE="image/png" MEDIA="(device-width:1536px) and (orientation:portrait)   and (-webkit-device-pixel-ratio:2)" HREF="startupimages/startupimage1536x2008.png">
+  <LINK REL="apple-touch-startup-image" TYPE="image/png" MEDIA="(device-width:1536px) and (orientation:landscape)  and (-webkit-device-pixel-ratio:2)" HREF="startupimages/startupimage2048x1496.png">
+
+  <!-- End of web app information -->
+
+  <LINK REL="stylesheet" TYPE="text/css" HREF="webapp.css">
+  <LINK REL="stylesheet" TYPE="text/css" HREF="common.css">
+
+  <SCRIPT TYPE="text/javascript" SRC="webapp.js"></SCRIPT>
+  <SCRIPT TYPE="text/javascript" SRC="updatemanager.js"></SCRIPT>
+  <SCRIPT TYPE="text/javascript" SRC="spot.js"></SCRIPT>
+  <SCRIPT TYPE="text/javascript" SRC="settings.js" DEFER></SCRIPT>
+
+  <SCRIPT TYPE="text/javascript">
+    <!--
+
+    function wrongButton()
+    {
+      window.alert("No, that's just what the button LOOKS like.  Tap the ACTUAL button.");
+
+      return;
+    }
+
+    document.addEventListener(
+      "DOMContentLoaded",
+      function()
+      {
+        if (webApp.installed != true)
+          webApp.showPage("InstallationInstructions");
+      },
+      false);
+
+    //-->
+  </SCRIPT>
+</HEAD>
+
+<BODY>
+  <DIV ID="Home" CLASS="Page">
+    <FORM STYLE="position:fixed;left:0px;bottom:0px;right:0px;">
+      <TABLE STYLE="width:100%;">
+        <TR>
+          <TH STYLE="width:6em;">Framerate:</TH>
+          <TD><INPUT ID="FPS" TYPE="NUMBER" MIN="1" MAX="100" VALUE="60" ONINPUT="setRotation();"> frames/second</TD>
+        </TR>
+        <TR>
+          <TH>Speed:</TH>
+          <!--TD><INPUT ID="Period" TYPE="NUMBER" MIN="1" MAX="60" VALUE="20" ONINPUT="setRotation();"> seconds/revolution</TD-->
+
+          <!--TD><INPUT ID="Period" TYPE="RANGE" MIN="1" MAX="64" STEP="1" VALUE="10" STYLE="margin:0px;border:0px;padding:0px;width:100%;" ONINPUT="setRotation();"></TD-->
+          <TD><INPUT ID="Speed" STYLE="margin:0px;border:0px;padding:0px;width:100%;" TYPE="RANGE" MIN="1" MAX="64" STEP="1" VALUE="10" ONINPUT="setRotation();"></TD>
+        </TR>
+        <TR>
+        <TR>
+          <TH>Bottle Size:</TH>
+          <TD><INPUT ID="Size" STYLE="margin:0px;border:0px;padding:0px;width:100%;" TYPE="RANGE" MIN="1" MAX="100" STEP="1" VALUE="40" ONINPUT="setSize();"></TD>
+        </TR>
+        <TR>
+          <TH>Pattern</TH>
+          <TD>
+            <SELECT ID="Pattern" ONCHANGE="setPattern();">
+              <OPTION>Candle</OPTION>
+              <OPTION>Forest</OPTION>
+              <OPTION>Ocean</OPTION>
+              <OPTION SELECTED>Colour Wheel</OPTION>
+            </SELECT>
+          </TD>
+        </TR>
+      </TABLE>
+      Version:  2021-04-24 01:51<BR>
+      Update status:  <SPAN ID="UpdateStatus">Inactive</SPAN>
+    </FORM>
+
+    <DIV STYLE="display:block;text-align:center;">
+      <CANVAS ID="Spot" CLASS="Spot">
+        This browser doesn't support the <CODE>&lt;CANVAS&gt;</CODE> HTML element.
+      </CANVAS>
+    </DIV>
+  </DIV>
+
+  <DIV ID="InstallationInstructions" CLASS="Page" STYLE="background-color:gray;">
+    <DIV CLASS="UnknownOS">
+      <H2>Device Not Recognized</H2>
+
+      <P>
+        <B>Is there an icon for this app on your device yet?</B>  Universal web apps like this
+        one need to be installed manually.  Because this system isn't recognized, it's not
+        possible to provide instructions for adding this app to your home screen, start screen
+        or desktop.  You'll need to consult your web browser's help system&nbsp;&ndash; try
+        searching for things like "Add to Home Screen", "Add to Desktop" or "Pin to Start".
+      </P>
+
+      <P>
+        Alternatively, this web app will still function if it's running inside a web
+        browser&nbsp;&ndash; it just won't look like a standalone app.  You can add this page
+        to your web browser's bookmarks or favourites list for convenience.
+      </P>
+    </DIV>
+
+    <DIV CLASS="Android BlackBerry iOS WindowsMobile">
+      <H2>Installation Instructions</H2>
+
+      <P>
+        Universal web apps like this one need to be installed manually.  Here's how to complete
+        the installation process:
+      </P>
+
+      <OL CLASS="Android">
+        <LI>
+          Tap the device's <U>Menu</U> button.  It's down past the bottom of the screen, next to
+          the big Home button.  It may be dark or invisible until it's been touched.
+        </LI>
+        <LI>
+          Select <U>Add to Home Screen</U> (the actual phrase varies by browser).  If there is
+          no such option then you'll need to use a different browser.
+        </LI>
+      </OL>
+
+      <OL CLASS="iOS">
+        <LI>
+          In Safari (Apple doesn't allow other web browsers to do this), tap the <U>Share</U>
+          button&nbsp;&ndash; it looks like either
+          <IMG SRC="browsermenuicons/ios6.png" ALT="" ONCLICK="wrongButton();"> or
+          <IMG SRC="browsermenuicons/ios7.png" ALT="" ONCLICK="wrongButton();">.
+        </LI>
+        <LI>Select <U>Add to Home Screen</U>.</LI>
+      </OL>
+
+      <OL CLASS="BlackBerry">
+        <LI>
+          Either press the <U>Menu</U> button on the device's keyboard (it looks like
+          <IMG SRC="browsermenuicons/bbkeyboard.png" ALT="" ONCLICK="wrongButton();">)
+          or tap the web browser's <U>More</U> button (it looks like
+          <IMG SRC="browsermenuicons/bb10.png" ALT="" ONCLICK="wrongButton();">).
+        </LI>
+        <LI>Select <U>Add to Home Screen</U>.</LI>
+      </OL>
+
+      <OL CLASS="WindowsMobile">
+        <LI>
+          Tap the web browser's <U>More</U> button&nbsp;&ndash; it usually looks like
+          <IMG SRC="browsermenuicons/windowsmobile.png" ALT="" ONCLICK="wrongButton();">.
+        </LI>
+        <LI>Select <U>Pin to Start</U>.</LI>
+      </OL>
+
+      <P>
+        Once the icon is there, open the app and let the installation process finish
+        automatically.
+      </P>
+    </DIV>
+
+    <DIV CLASS="MaybeInstalled">
+      <HR>
+
+      <P>
+        It's not possible to determine whether this app has been installed or not.  If you can
+        launch this app through its icon on a home screen then tap this button:
+      </P>
+
+      <P STYLE="text-align:center;">
+        <BUTTON ONCLICK="webApp.setInstalled();webApp.showPage('Home');return;">
+          Don't Show These Instructions Again
+        </BUTTON>
+      </P>
+    </DIV>
+  </DIV>
+</BODY>
+
+</HTML>

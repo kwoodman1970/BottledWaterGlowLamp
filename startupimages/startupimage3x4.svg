@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="64"
+   id="svg4291"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="startupImage3x4.svg">
+  <title
+     id="title4818">Product Icon Template</title>
+  <defs
+     id="defs4293">
+    <linearGradient
+       gradientTransform="matrix(0.25,0,0,0.25,2,-13)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient3820"
+       id="linearGradient3826"
+       x1="48"
+       y1="88"
+       x2="72"
+       y2="88"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3820">
+      <stop
+         id="stop3828"
+         offset="0"
+         style="stop-color:#ff0000;stop-opacity:1;" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1;"
+         offset="0.33333334"
+         id="stop3830" />
+      <stop
+         id="stop3834"
+         offset="0.66666669"
+         style="stop-color:#00ff00;stop-opacity:1;" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="1"
+         id="stop3824" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="12.109375"
+     inkscape:cx="24"
+     inkscape:cy="32"
+     inkscape:current-layer="svg4291"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1680"
+     inkscape:window-height="990"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:snap-nodes="true"
+     inkscape:object-nodes="false"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-grids="true"
+     inkscape:snap-smooth-nodes="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4299"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid5565"
+       empspacing="2"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       dotted="true"
+       originx="2.7755576e-017px"
+       originy="2.7755576e-017px"
+       spacingx="0.5px"
+       spacingy="0.5px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4296">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Product Icon Template</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="Content"
+     inkscape:label="Content"
+     inkscape:groupmode="layer"
+     style="display:inline"
+     transform="translate(0,16)">
+    <path
+       style="fill:#e0e0e0;fill-opacity:1;stroke:none;display:inline"
+       d="m 5,23 38,0 c 0,2 -3,4 -6,4 L 11,27 C 8,27 5,25 5,23 z"
+       id="Device"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:url(#linearGradient3826);fill-opacity:1;stroke:#4dd0e1;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 11,21 0,-17 1,-2 -1,-2 0,-4 4,-4 4,0 4,4 0,4 -1,2 1,2 0,17 c 0,0.75 -0.25,1 -1,1 l -10,0 c -0.75,0 -1,-0.25 -1,-1 z"
+       id="Bottle"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccccccccccccss" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="Cap"
+       width="6"
+       height="2"
+       x="14"
+       y="-11"
+       rx="0"
+       ry="0" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:6px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;display:inline;font-family:Candy;-inkscape-font-specification:Candy Oblique"
+     x="3.5"
+     y="52"
+     id="Water"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="WaterBottleText"
+       x="3.5"
+       y="52">Water Bottle</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:6px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffff00;fill-opacity:1;stroke:none;display:inline;font-family:Candy;-inkscape-font-specification:Candy Oblique"
+     x="44"
+     y="60"
+     id="GlowLamp"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="GlowLampText"
+       x="44"
+       y="60">Glow Lamp</tspan></text>
+</svg>

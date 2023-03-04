@@ -1,0 +1,42 @@
+{
+  "name":              "Bottled Water Glow Lamp",
+  "short_name":        "BW Glow Lamp",
+  "description":       "Turn your device into a glow lamp by placing a bottle of water (at room temperature) on the screen."
+  "start_url":         "index.html?installed=true",
+  "display":           "standalone",
+  "orientation":       "portrait",
+  "background_color":  "black",
+
+  "icons":
+  [
+    {
+      "src":    "icons/icon.svg",
+      "type":   "image/svg"
+    },
+    {
+      "src":    "icons/icon48.png",
+      "sizes":  "48x48",
+      "type":   "image/png"
+    },
+    {
+      "src":    "icons/icon72.png",
+      "sizes":  "72x72",
+      "type":   "image/png"
+    },
+    {
+      "src":    "icons/icon96.png",
+      "sizes":  "96x96",
+      "type":   "image/png"
+    },
+    {
+      "src":    "icons/icon144.png",
+      "sizes":  "144x144",
+      "type":   "image/png"
+    },
+    {
+      "src":    "icons/icon192.png",
+      "sizes":  "192x192",
+      "type":   "image/png"
+    }
+  ]
+}

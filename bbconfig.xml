@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:rim=http://www.blackberry.com/ns/widgets version="2015.4.30.0" id="com.kevinwoodman.waterbottleglowlamp">
+  <author>Kevin Woodman</author>
+  <name>Water Bottle Glow Lamp</name>
+  <description>
+    Turn your device into a glow lamp by placing a water bottle (at room temperature) on the
+    screen.
+  </description>
+
+  <content src="index.html?installed=true"/>
+
+  <platform name="blackberry10">
+    <preference name="DiskcCache" value "enable" />
+
+    <icon src="icon90.png" />
+    <icon src="icon96.png" />
+    <icon src="icon110.png" />
+    <icon src="icon144.png" />
+
+    <rim:splash src="startupimage600x1024.png" />
+    <rim:splash src="startupimage1024x600.png" />
+    <rim:splash src="startupimage720.png" />
+    <rim:splash src="startupimage720x1280.png" />
+    <rim:splash src="startupimage1280x720.png" />
+    <rim:splash src="startupimage768x1280.png" />
+    <rim:splash src="startupimage1280x768.png" />
+    <rim:splash src="startupimage1440.png" />
+  </platform>
+</widget>

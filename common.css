@@ -1,0 +1,27 @@
+BODY
+{
+  overflow:          hidden;
+  padding:           0px;
+  background-color:  black;
+  color:             white;
+  font-family:       sans-serif;
+}
+
+CANVAS.Spot
+{
+  margin:  0px;
+  border-style:  none;
+  padding:  0px;
+  background-color:  #000000;
+}
+
+INPUT[TYPE="NUMBER"]
+{
+  width:       4em;
+  text-align:  right;
+}
+
+TH
+{
+  text-align:  right;
+}
