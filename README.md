@@ -3,27 +3,26 @@
 
 **WARNING:  Not responsible for _any_ damage caused to your device &ndash; use at your own risk!**
 
-I made this many years ago as an exercise while I was learning how to make [progressive web apps](https://en.wikipedia.org/wiki/Progressive_Web_Apps) that can run unaltered universally on any mobile device.  It uses the now-obsolete [appcache manifest](https://en.wikipedia.org/wiki/Cache_manifest_in_HTML5) method; a future task would be to update this with the newer [service workers](https://en.wikipedia.org/wiki/Progressive_Web_Apps#Service_workers) method (after I've learned it).
+I started making this some time around 2016 as an exercise while I was self-learning how to make [progressive web apps](https://en.wikipedia.org/wiki/Progressive_Web_Apps) that can run unaltered universally on any mobile device.  It uses the now-obsolete [appcache manifest](https://en.wikipedia.org/wiki/Cache_manifest_in_HTML5) method; a future task would be to update this with the newer [service workers](https://en.wikipedia.org/wiki/Progressive_Web_Apps#Service_workers) method (after I've learned it).
 
 For best results, use a room-temperature 500ml bottle of water in a very, very dark space.
 
 I was inspired to create this after seeing a similar app on an app store and saying to myself, "Cool!  I think I can do better."
 
-## Opening the Web Page
+## Installation Instructions
 
-Open your device's browser (Safari is recommended for iPhone & iPad users) and use the following link:
+Progressive web apps aren't generally distributed through app stores and must therefore be installed manually through a web browser.  **Caveat:**  as mentioned above, the installation technique used by this app is obsolete and newer devices may not allow installation or may require Internet access &ndash; YMMV.
 
-_link coming soon_
+Open your device's web browser (Safari may be required for iPhone & iPad users) and use the following link:
 
-## Adding To Your Home Screen
+<https://kwoodman1970.github.io/BottledWaterGlowLamp/>
 
-This will let you use the app even when you don't have access to the Internet.  **Caveat:**  as mentioned above, the technology to do this is obsolete and newer devices may not behave this way &ndash; YMMV.
+This web page will do its best to detect which device you're using and show you appropriate instructions, but mobile browsers vary widely by device and manufacturer.  You may have to look in your browser's menu for something like "Share" and/or "Add to Home Screen" and follow the directions.  A search engine may be your friend, too.
 
-Mobile browsers vary widely by device and manufacturer, so look in the browser's menu for something like "Share" and/or "Add to Home Screen" and follow the directions.  If you're using an iPhone or iPad then Safari may be required due to Apple's security system.
+Once the browser has indicated that the app is on the home screen, you can close the web page and the browser.
 
 ## Future Tasks
 
-No timeline or estimate is given for these.
+No timeline or estimate is given.
 
-* Implement service worker method
-* Add detailed instructions for adding to home screen
+* Implement service worker method for compatibility with newer devices
