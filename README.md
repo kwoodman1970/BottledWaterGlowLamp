@@ -13,7 +13,7 @@ I was inspired to create this after seeing a similar app on an app store and say
 
 Progressive web apps aren't generally distributed through app stores and must therefore be installed manually through a web browser.  **Caveat:**  as mentioned above, the installation technique used by this app is obsolete and newer devices may not allow installation or may require Internet access &ndash; YMMV.
 
-Open your device's web browser (Safari may be required for iPhone & iPad users) and use the following link:
+In your mobile device's web browser (Safari may be required for iPhone & iPad users), enter or tap on the following link:
 
 <https://kwoodman1970.github.io/BottledWaterGlowLamp/>
 
